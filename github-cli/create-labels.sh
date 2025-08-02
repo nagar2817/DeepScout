@@ -36,7 +36,9 @@ create_label "vector" "Vector DB management and operations" "91ca55"
 create_label "tools" "Third-party tool integration (APIs, plugins)" "185abd"
 create_label "mcp" "Multi-step Compression & Planning (MCP) agents and servers" "b60205"
 create_label "pdf" "PDF parsing, OCR, and text cleanup" "a7c5eb"
+create_label "chunks" "All tasks related to text/document chunking" "bc6c25"
 create_label "ingestion" "Document parsing and source ingestion" "fbca04"
+create_label "memory" "Agent state, context, and memory management" "faf3dd"
 
 # 🗂️ Support Systems
 create_label "api" "FastAPI routes, schemas, and REST contracts" "0366d6"
@@ -44,9 +46,18 @@ create_label "cache" "Redis caching or other memory layer work" "ffdda1"
 create_label "queue" "Background processing and Celery tasks" "f9d0c4"
 create_label "logging" "Application logs, metrics, and debugging traces" "8b949e"
 create_label "observability" "SLOs, monitoring, dashboards, and logging" "bfdadc"
+create_label "storage" "Data, document, or checkpoint storage and management" "ba68c8"
 create_label "testing" "Test cases and test suite infrastructure" "0e8a16"
+create_lable "monitoring" "Monitoring infrastructure, metrics, and alerting" "009688"
+
+# Frontend & UI
+create_label "frontend" "Frontend UI (web, dashboard, or tools)" "f48fb1"
 
 # 🛠️ Lifecycle Management
+create_label "demo" "Demo scripts, notebooks, or UI for demonstrations" "005244"
 create_label "docs" "Project documentation and md files" "0075ca"
 create_label "refactor" "Code quality, restructuring, and cleanup" "e4e669"
 create_label "dependencies" "Dependency or requirements file changes" "5319e7"
+create_label "release" "Tagged releases and shipping checklist items" "cfd3d7"
+create_label "cli" "Command-line tools or interfaces (deepscout CLI)" "6f42c1"
+create_label "security" "Security, auth, and PII-protection related work" "b60205"

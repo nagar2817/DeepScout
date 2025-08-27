@@ -2,6 +2,12 @@
 
 # Deep Research Agent: Tech Stack Analysis
 
+## Architecture Overview
+
+![Deep Research Agent Architecture Flow](images/flow.png)
+
+*Architecture diagram showing the complete flow of the Deep Research Agent system, including orchestration, LLM integration, retrieval mechanisms, and data processing components.*
+
 
 ## 1. Orchestration & Agent Flow
 
